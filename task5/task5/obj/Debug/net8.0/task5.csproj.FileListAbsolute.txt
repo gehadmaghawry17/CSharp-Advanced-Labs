@@ -1,0 +1,28 @@
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\bin\Debug\net8.0\task5.exe
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\bin\Debug\net8.0\task5.deps.json
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\bin\Debug\net8.0\task5.runtimeconfig.json
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\bin\Debug\net8.0\task5.dll
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\bin\Debug\net8.0\task5.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.dll
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\refint\task5.dll
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\task5.genruntimeconfig.cache
+D:\mar\ITI\OOP C#\adv\sheet\task5\task5\obj\Debug\net8.0\ref\task5.dll
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\bin\Debug\net8.0\task5.exe
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\bin\Debug\net8.0\task5.deps.json
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\bin\Debug\net8.0\task5.runtimeconfig.json
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\bin\Debug\net8.0\task5.dll
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\bin\Debug\net8.0\task5.pdb
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.dll
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\refint\task5.dll
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.pdb
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\task5.genruntimeconfig.cache
+D:\Projects\task5-20251007T121930Z-1-001\task5\task5\obj\Debug\net8.0\ref\task5.dll
