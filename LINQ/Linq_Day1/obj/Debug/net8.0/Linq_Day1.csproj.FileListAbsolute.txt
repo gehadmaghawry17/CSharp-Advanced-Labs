@@ -1,0 +1,8 @@
+C:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.AssemblyInfoInputs.cache
+C:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.AssemblyInfo.cs
+C:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.csproj.CoreCompileInputs.cache
+D:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.AssemblyInfoInputs.cache
+D:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.AssemblyInfo.cs
+D:\Projects\Linq_Day1\Linq_Day1\obj\Debug\net8.0\Linq_Day1.csproj.CoreCompileInputs.cache
