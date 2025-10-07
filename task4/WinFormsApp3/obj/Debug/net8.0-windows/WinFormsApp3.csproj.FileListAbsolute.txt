@@ -1,0 +1,16 @@
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll

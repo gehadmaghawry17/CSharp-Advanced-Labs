@@ -1,0 +1,32 @@
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\mar\ITI\OOP C#\adv\sheet\task4\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Projects\task4-20251007T121921Z-1-001\task4\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
